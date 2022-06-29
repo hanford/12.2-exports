@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { getFullWeekDates, weekNumber } from "../problematic-file";
+import { getFullWeekDates, weekNumber } from "../problematic-file.cjs";
 
 console.log(getFullWeekDates, weekNumber);
 
